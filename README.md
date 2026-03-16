@@ -23,7 +23,7 @@ O projeto conta com três atores principais:
 - **Lojista**: gerencia catálogo, preços e estoque, além de publicar promoções.
 - **Administrador**: supervisiona o sistema, controla acessos e garante segurança.
 
-*(Diagrama completo disponível no documento do projeto.)*
+images/umlmercadez.png
 
 ---
 
