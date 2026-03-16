@@ -28,7 +28,7 @@ O projeto conta com três atores principais:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Frontend**: Angular  
+- **Frontend**: HTML, CSS e Javascript 
 - **Backend**: Spring Boot  
 - **Banco de Dados**: PostgreSQL  
 - **Protótipos de telas**: Figma  
