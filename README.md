@@ -47,8 +47,10 @@ A plataforma está planejada para ser hospedada em ambiente web, garantindo aces
 
 ---
 
-## 🎓 Orientador
+## 🎓 Orientadores
+- Doutora **Márcia Aparecida Silva Bissaco**
 - Professor **Francisco Douglas Lima Abreu**
+- Professor **Jeferson Roberto de Lima**
 
 ---
 
